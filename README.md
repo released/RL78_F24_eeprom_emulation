@@ -27,7 +27,7 @@ to add EEPROM Emulation (EESRL78T02) library and RFD librar (RFDRL78T02) to proj
 ![image](https://github.com/released/RL78_F24_eeprom_emulation/blob/main/tree02.jpg)
 
 
-refer to __7.1.3.3  Section Item Settings , to modify section__ 
+refer to __7.1.3.3  Section Item Settings__  , to modify section
 
 ![image](https://github.com/released/RL78_F24_eeprom_emulation/blob/main/Link_Options_Section.jpg)
 
