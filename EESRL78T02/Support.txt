@@ -1,0 +1,16 @@
+===============================================================================
+Support information for the EEPROM Emulation Software(EES) RL78 Type02
+===============================================================================
+
+=============================
+Supported Devices information 
+=============================
+The microcontrollers are covered by this package
+
+  RL78/F24,F23:
+     RL78/F24
+     RL78/F23
+
+===============================================================================
+End of support information for the EEPROM Emulation Software(EES) RL78 Type02
+===============================================================================

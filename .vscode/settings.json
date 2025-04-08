@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "sample_ees_memmap.h": "c",
+        "r_typedefs.h": "c"
+    }
+}

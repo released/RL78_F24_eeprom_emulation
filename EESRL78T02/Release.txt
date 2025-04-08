@@ -1,0 +1,70 @@
+===============================================================================
+Read me file for the EEPROM Emulation Software(EES) RL78 Type02
+===============================================================================
+
+========
+Contents
+========
+
+    1. Software Corrections and Updates
+    2. General Information
+    3. File Naming
+    4. Operating Precautions
+
+===================================
+1. Software Corrections and Updates
+===================================
+
+Installer Changes
+-----------------
+    V1.00
+    ------
+    - Newly released (EES RL78 Type02:V1.00) 
+    
+EES Changes
+-----------------
+    V1.00
+    ------
+    - Initial version
+
+======================
+2. General Information
+======================
+
+The EES RL78 Type02 is delivered in source code, prepared for
+the IAR development environment and Renesas development environment.
+In addition, this EES RL78 Type02 uses RFD RL78 Type02 to control
+the data flash, but it is not included in the EES RL78 Type02 installer.
+Therefore, please also install RFD RL78 Type02 and use it 
+in combination with EES RL78 Type02.
+
+Supported compiler are:
+
+- CC-RL compiler version: V1.11 or later
+- IAR compiler version:   V4.21.3 or later
+
+========================================
+3. File Naming
+========================================
+
+The installer file has the name RENESAS_EES_RL78_Type[ab]_V{x}.{y}{z}.exe
+e.g. RENESAS_EES_RL78_Type02_V1.00.exe
+
+[ab] Software type number
+{x} This version digit will be incremented in case of major changes
+    e.g. API added or there are some big changes
+{y} This version digit will be incremented in case of medium or small scale
+    addition and improvements
+{z} This version digit will be incremented in case of bug fixes and internal 
+    improvements
+
+========================
+4. Operating Precautions
+========================
+- EES RL78 Type02 cannot be applied to RL78/x1x and RL78/G2x groups.
+- For further information, please refer to the related documentation and 
+  device documentation.
+
+===============================================================================
+End of read me file for the EEPROM Emulation Software(EES) RL78 Type02
+===============================================================================
