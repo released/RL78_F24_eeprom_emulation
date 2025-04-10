@@ -1,5 +1,0 @@
-
-add eep / EESRL78T02
-asm
-register
-add RFD / RFDRL78T02

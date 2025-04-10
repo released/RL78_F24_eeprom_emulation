@@ -218,6 +218,7 @@
           <Path>RFDRL78T02\userown\r_rfd_common_userown.c</Path>
         </Category>
       </Category>
+      <Path>app_ees.c</Path>
     </Files>
     <DebugOptions>
       <ConnectSettings>
@@ -259,6 +260,7 @@
           <Path>DefaultBuild\r_rfd_common_control_api.obj</Path>
           <Path>DefaultBuild\r_rfd_data_flash_api.obj</Path>
           <Path>DefaultBuild\r_rfd_common_userown.obj</Path>
+          <Path>DefaultBuild\app_ees.obj</Path>
         </LinkOrder>
         <CommonOptions>
           <IncludePathForC>RFDRL78T02\sample\common\include</IncludePathForC>

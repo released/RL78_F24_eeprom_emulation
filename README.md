@@ -20,7 +20,7 @@ https://www.renesas.com/en/document/scd/eeprom-emulation-software-rl78-type-02-r
 
 3. refer to user manual : __7.1.2  Example of Registration of Target Folders and Target Files__ , 
 
-to add EEPROM Emulation (EESRL78T02) library and RFD librar (RFDRL78T02) to project
+to add EEPROM Emulation (EESRL78T02) library and RFD librarty (RFDRL78T02) to project
 
 ![image](https://github.com/released/RL78_F24_eeprom_emulation/blob/main/tree01.jpg)
 
@@ -116,4 +116,7 @@ press digit 2 to read value in each ID
 ![image](https://github.com/released/RL78_F24_eeprom_emulation/blob/main/log3.jpg)
 ![image](https://github.com/released/RL78_F24_eeprom_emulation/blob/main/log4.jpg)
 
+
+press digit 3 to add counter , combine with digit 1 (write) and digit 2 (read) , to verify result
+![image](https://github.com/released/RL78_F24_eeprom_emulation/blob/main/log5.jpg)
 

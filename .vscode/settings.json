@@ -1,6 +1,9 @@
 {
     "files.associations": {
         "sample_ees_memmap.h": "c",
-        "r_typedefs.h": "c"
+        "r_typedefs.h": "c",
+        "custom_func.h": "c",
+        "sample_ees_defines.h": "c",
+        "r_ees_api.h": "c"
     }
 }
